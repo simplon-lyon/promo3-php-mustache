@@ -16,6 +16,6 @@ A repository to learn Composer and Mustache !
 ## Simple Website
 
 To complete the work, build a simple website with:
-    - at least 3 partials (`header`, `footer`, `nav`)
-    - one more route
-    - one more template
+- at least 3 partials (`header`, `footer`, `nav`)
+- one more route
+- one more template
