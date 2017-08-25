@@ -19,3 +19,9 @@ To complete the work, build a simple website with:
 - at least 3 partials (`header`, `footer`, `nav`)
 - one more route
 - one more template
+
+## Guzzle
+
+1. search for the guzzlehttp/guzzle package on https://packagist.org/
+2. create a new page `dog.php`
+3. on `dog.php` get a list of breed from https://dog.ceo/ using `guzzle`
